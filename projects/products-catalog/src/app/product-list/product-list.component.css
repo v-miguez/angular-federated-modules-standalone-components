@@ -1,0 +1,10 @@
+.product-card-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 1fr;
+}
+
+.product-wrapper{
+    height: 100%;
+}
